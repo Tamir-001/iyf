@@ -1,7 +1,7 @@
 'use client';
 
 import { Card } from "@/components/ui/card";
-import { Bible } from "lucide-react";
+import { Dribbble as Bible } from "lucide-react";
 
 export default function BibleStudiesPage() {
   return (
